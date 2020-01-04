@@ -2,3 +2,4 @@ test1
 add something from other people
 new feature1
 test conflict1
+test conflict2
